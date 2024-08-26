@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../esp32"
+		},
+		{
+			"name": "led",
+			"path": "C:/Users/Lenovo/Documents/PlatformIO/Projects/led"
+		}
+	],
+	"settings": {}
+}
